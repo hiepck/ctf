@@ -1,0 +1,6 @@
+Xem source co 4 file js
+Deobfuscation JavaScript: https://lelinhtinh.github.io/de4js/
+username: cookiehanhoan
+password: sup3rSercur3p@ssW0rd
+role: @dmi
+flag: CHH{J5fuCk_is_s0_mE5s_e994cbd645500e35652b8d7927881972}

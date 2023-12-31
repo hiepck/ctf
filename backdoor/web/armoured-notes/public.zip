@@ -1,0 +1,11 @@
+--2023-12-17 17:50:01--  https://backdoor.infoseciitr.in/uploads?key=ff6e0e276eb41f48cdc88d84bc201bad4c14083588378a18a08cda40beefd8b2%2Fpublic.zip
+Resolving backdoor.infoseciitr.in (backdoor.infoseciitr.in)... 172.67.139.6, 104.21.46.128, 2606:4700:3030::ac43:8b06, ...
+Connecting to backdoor.infoseciitr.in (backdoor.infoseciitr.in)|172.67.139.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34890 (34K) [application/octet-stream]
+Saving to: ‘uploads?key=ff6e0e276eb41f48cdc88d84bc201bad4c14083588378a18a08cda40beefd8b2%2Fpublic.zip’
+
+     0K .......... .......... .......... ....                 100%  192K=0.2s
+
+2023-12-17 17:50:02 (192 KB/s) - ‘uploads?key=ff6e0e276eb41f48cdc88d84bc201bad4c14083588378a18a08cda40beefd8b2%2Fpublic.zip’ saved [34890/34890]
+

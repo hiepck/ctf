@@ -1,0 +1,4 @@
+# Dirsearch started Mon Jan  1 17:04:04 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://13.212.226.251:32522/ -i 200
+
+200     0B   http://13.212.226.251:32522/upload/
+200    42B   http://13.212.226.251:32522/upload.php

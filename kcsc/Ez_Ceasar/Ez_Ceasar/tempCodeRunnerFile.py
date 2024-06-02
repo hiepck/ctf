@@ -1,1 +1,0 @@
-KCSC{s0m3_r3ad4ble_5tr1ng_like_7his}

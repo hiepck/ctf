@@ -15,7 +15,7 @@ filter = function(data){
         if(dump.indexOf(word)!=-1) flag = true;
     });
     return flag;
-}
+} 
 
 app.get('/login', function(req, res) {
     if(filter(req.query)){

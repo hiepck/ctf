@@ -1,0 +1,7 @@
+static_file_handling: 1
+public_dir: "public"
+engines:
+  template:
+    template_toolkit:
+      ENCODING: 'utf8'
+      INCLUDE_PATH: './views'

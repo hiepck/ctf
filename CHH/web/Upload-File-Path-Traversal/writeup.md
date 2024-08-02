@@ -1,3 +1,4 @@
+## Upload File Path Traversal
 Link challenges: https://battle.cookiearena.org/challenges/web/upload-file-path-traversal
 
 ![Alt text](image.png)

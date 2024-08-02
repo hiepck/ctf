@@ -1,4 +1,4 @@
-# Simple SSTI
+## Simple SSTI
 
 ![alt text](image.png)
 

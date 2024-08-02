@@ -1,3 +1,5 @@
+## Baby Strcmp
+
 Link challenges: https://battle.cookiearena.org/challenges/web/baby-strcmp
 
 Sau khi reaserch một hồi thì mình hiểu là chương trình sẽ sử dụng hàm strcmp() để so sánh biến flag do mình nhập vào với tên biến flag của server. Chắc chắn cái này ai thần mới nghĩ ra nên mình nghĩ sẽ có cách bypass strcmp().

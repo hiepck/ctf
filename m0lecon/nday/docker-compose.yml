@@ -1,0 +1,13 @@
+services:
+  web:
+    build: php
+    ports:
+      - "8080:80"
+
+  ftp:
+    build: ftp
+    ports:
+      - "21:21"
+      - "21000-21010:21000-21010"
+    environment:
+      FLAG: "ptm{REDACTED}"

